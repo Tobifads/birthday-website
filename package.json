@@ -2,7 +2,7 @@
   "name": "birthday-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tobifads.github.io/birthday-site",
+  "homepage": "https://tobifads.github.io/birthday-website",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17"
   },
